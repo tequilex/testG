@@ -10,7 +10,7 @@ interface User {
 function App() {
 
   const user: User = {
-    name: "John",
+    name: "Johny",
     age: 30,
     fam: "qqq1q",
     bool: true,
