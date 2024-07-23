@@ -11,7 +11,7 @@ function App() {
 
   const user: User = {
     name: "Johny",
-    age: 30,
+    age: 12,
     fam: "qqq1q",
     bool: true,
     area: {
