@@ -19,7 +19,7 @@ function App() {
       locale: "ru",
       age: 230,
       date: 2,
-      area: 'north'
+      area: 'northSide'
     },
   };
 
